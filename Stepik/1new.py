@@ -1,21 +1,6 @@
 from selenium import webdriver
-import time
 
-try:
-    browser = webdriver.Chrome()
-    # говорим WebDriver ждать все элементы в течение 5 секунд
-    browser.implicitly_wait(5)
+# инициализируем драйвер браузера. После этой команды вы должны увидеть новое открытое окно браузера
+driver = webdriver.Firefox()
 
-    browser.get("http://suninjuly.github.io/wait2.html")
-
-    button = browser.find_element_by_id("verify")
-    button.click()
-    message = browser.find_element_by_id("verify_message")
-
-    assert "successful" in message.text
-
-finally:
-    time.sleep(7)
-    browser.quit()
-
-#Пустая строка
+driver.get("https://stepik.org/lesson/25969/step/8")
