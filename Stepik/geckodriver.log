@@ -1,0 +1,45 @@
+1648532493868	geckodriver	INFO	Listening on 127.0.0.1:64881
+1648532496894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64882" "-no-remote" "-profile" "C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofileB0cUXQ"
+1648532497529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofileB0cUXQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64882/devtools/browser/e7bd10c9-67e7-4009-9972-785c9b32ad14
+1648532499239	Marionette	INFO	Listening on port 64888
+1648532499598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1648532502191	Marionette	INFO	Stopped listening on port 64888
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1648532502676	geckodriver	INFO	Listening on 127.0.0.1:64926
+1648532505705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64927" "-no-remote" "-profile" "C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofileJLm1F5"
+1648532505908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofileJLm1F5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64927/devtools/browser/a7b4afba-6d31-4b3a-9456-7695923e4f1c
+1648532507287	Marionette	INFO	Listening on port 64934
+1648532507752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1648532509521	Marionette	INFO	Stopped listening on port 64934
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1648532509924	geckodriver	INFO	Listening on 127.0.0.1:64968
+1648532512955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64969" "-no-remote" "-profile" "C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofiled2ENqW"
+1648532513151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofiled2ENqW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64969/devtools/browser/1e86e89f-159e-4607-80de-11a4e2269523
+1648532514586	Marionette	INFO	Listening on port 64975
+1648532515010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1648532516738	Marionette	INFO	Stopped listening on port 64975
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648532517228	geckodriver	INFO	Listening on 127.0.0.1:65011
+1648532520240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65012" "-no-remote" "-profile" "C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofileJ55Fd4"
+1648532520437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Evgeniy\\AppData\\Local\\Temp\\rust_mozprofileJ55Fd4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65012/devtools/browser/fe52e2ed-d081-44a9-9823-f09d9ac6d832
+1648532521837	Marionette	INFO	Listening on port 65018
+1648532522297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1648532525331	Marionette	INFO	Stopped listening on port 65018
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
